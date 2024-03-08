@@ -1,7 +1,7 @@
-Yuzu est mort à cause de Nintendo.
+Yuzu is dead caused by Nintendo.
 
-J'aimerais relancer ce projet mais je n'ai pas les compétences appropriées pour créer de nouvelles versions et mises à jour pour cet incroyable projet.
+I would like revive this project but i don't have the appropriates skills for create new builds and updates for this incredible project.
 
-Je télécharge à nouveau le dernier code source et les dernières versions de yuzu pour les autres développeurs qualifiés.
+I reupload the latest source code and releases of yuzu for others skilled developers.
 
-Merci de relancer ce projet au nom de la communauté Nintendo :)
+Please revive this project on behalf of Nintendo community :)
